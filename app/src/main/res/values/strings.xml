@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple Camera App</string>
+
+    <string name="intro_course">Mobile Application Development</string>
+    <string name="intro_title">Simple Camera Application</string>
+    <string name="intro_description">Capture a photo using the device camera and share it via the Android System Sharing interface.</string>
+
+    <string name="action_open_camera">Open Camera</string>
+    <string name="action_capture">Capture Photo</string>
+    <string name="action_share">Share Photo</string>
+    <string name="share_sheet_title">Share Photo Via</string>
+
+    <string name="notice_camera_permission">Camera permission is required to capture photos.</string>
+    <string name="hint_no_photo">No photo captured yet. Click "Open Camera" to take a photo.</string>
+
+    <string name="toast_capture_cancelled">Photo capture cancelled</string>
+    <string name="toast_permission_denied">Camera permission denied</string>
+    <string name="toast_capture_file_error">Error initializing camera file</string>
+
+    <string name="cd_captured_photo">Captured Photograph</string>
+    <string name="cd_camera_icon">Camera Icon</string>
+    <string name="cd_share_icon">Share Icon</string>
+</resources>
